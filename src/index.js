@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import ReactDOM from "react-dom/client";
 import "./index.css";
-import App2 from "./App2";
+import App from "./App";
 import Senior from "./list1";
 import Present from "./list2";
 import Future from "./list3";
@@ -71,7 +71,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <BrowserRouter>
     <Routes>
-      <Route path="/" element={<App2 />} />
+      <Route path="/" element={<App />} />
       <Route path="/senior" element={<Senior />} />
       <Route path="/present" element={<Present />} />
       <Route path="/future" element={<Future />} />

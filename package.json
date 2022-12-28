@@ -1,6 +1,6 @@
 {
-  "homepage": "https://raveendrajenni.github.io/KrPadu/",
-  "name": "cricket",
+  "homepage":"https://raveendrajenni.github.io/KrPadu",
+  "name": "krpadu",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
