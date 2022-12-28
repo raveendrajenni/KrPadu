@@ -36,3 +36,163 @@
     transform: rotate(360deg);
   }
 }
+
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.heading {
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: bold;
+  font-style: normal;
+  color: #d0b200;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+.icon-image {
+  width: 48px;
+  height: 60px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.top-container {
+  background-color: blueviolet;
+}
+
+.heading2 {
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: bold;
+  font-style: normal;
+  color: aqua;
+}
+
+.heading3 {
+  font-family: "Roboto";
+  font-size: 10px;
+  font-weight: 300;
+  font-style: italic;
+  color: yellowgreen;
+  text-align: right;
+}
+
+.explore-menu-bg-container {
+  background-color: white;
+}
+
+.explore-menu-card {
+  border-radius: 16px;
+}
+
+.explore-menu-main-heading {
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+  color: #183b56;
+}
+
+.explore-menu-card-image {
+  border-radius: 30px;
+}
+
+.explore-menu-card-title {
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+  color: #323f4b;
+  margin-top: 4px;
+}
+
+.explore-menu-card-link {
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+  color: #d0b200;
+}
+
+.follow-us-section {
+  background-color: white;
+}
+
+.follow-us-section-heading {
+  text-align: center;
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.follow-us-icon-container {
+  background-color: #faf7e8;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  margin: 15px;
+  padding-top: 12px;
+  padding-bottom: 14px;
+  padding-right: 16px;
+  padding-left: 12px;
+}
+
+.icon1 {
+  color: #42cbf5;
+  font-size: 20px;
+}
+
+.icon2 {
+  color: #e642f5;
+  font-size: 20px;
+}
+
+.icon3 {
+  color: #242d52;
+  font-size: 20px;
+}
+
+.icon4 {
+  color: red;
+  font-size: 20px;
+}
+
+.footer-section {
+  background-color: #0d2436;
+}
+
+.footer-section-mail-id {
+  color: #959ead;
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.footer-section-address {
+  color: #959ead;
+  font-family: "Roboto";
+  font-size: 14px;
+}
+.cricket {
+  width: 180px;
+  height: 180px;
+}
+.present {
+  background-color: coral;
+}
+.present1 {
+  background-color: #959ead;
+}
+.present2 {
+  background-color: aquamarine;
+}
+.present3 {
+  background-color: antiquewhite;
+}
+
+.top {
+  background-color: #0d2436;
+  padding: 5px;
+}
+.copy {
+  background-color: cadetblue;
+}
